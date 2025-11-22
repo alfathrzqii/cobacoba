@@ -1,6 +1,6 @@
 # cobacoba
 
-@izzanbcy
-@keyie2906-cmd
-@\azriel
-@alfathrozaqi
+- @izzanbcy
+- @keyie2906-cmd
+- @\azriel
+- @alfathrozaqi
